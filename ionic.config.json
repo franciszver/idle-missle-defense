@@ -1,0 +1,7 @@
+{
+  "name": "idle-missle-defense",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
